@@ -42,6 +42,8 @@ function dateCheck(date) {
   }
 }
 
+
+
 function onStart() {
   refs.startBtn.disabled = isDisabled;
   refs.dateInput.disabled = isDisabled;
